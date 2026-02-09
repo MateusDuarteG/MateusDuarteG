@@ -1,14 +1,14 @@
 # Olá, pessoal! 👋
 
 Meu nome é Mateus e sou desenvolvedor apaixonado por tecnologia.  
-Atualmente moro em Uberlândia, Brasil, e trabalho em projetos com **Python** e **Node.js**.
+Atualmente moro em Uberlândia, Brasil, e trabalho em projetos com **Python** e **Html**.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 - Python
 - Git & GitHub
-- Docker
+- Html
 - SQL & Bancos de Dados
 - APIs REST
 
