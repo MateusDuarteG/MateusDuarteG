@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, folks! 👋
 
-<!--
-**MateusDuarteG/MateusDuarteG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mateus e sou desenvolvedor apaixonado por tecnologia.  
+Atualmente moro em Uberlândia, Brasil, e trabalho em projetos com Python e Node.js.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Ferramentas
+- Python
+- Html
+- Git & GitHub
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDuarteG&show_icons=true)
+
+## 📫 Como me encontrar
+- [LinkedIn]((https://www.linkedin.com/in/mateus-duarte-gomes-71b241202/))
+- ✉️ Email: mateusgomesduarte23@gmail.com
+
