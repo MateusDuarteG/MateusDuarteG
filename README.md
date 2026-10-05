@@ -1,4 +1,4 @@
-# Hi there, I'm Mateus Duarte Gomes! 👋
+# Olá eu sou Mateus Duarte Gomes! 👋
 
 ### 🚀 Desenvolvedor & Analista de Infraestrutura e Automação
 📍 **Uberlândia, MG - Brasil**
